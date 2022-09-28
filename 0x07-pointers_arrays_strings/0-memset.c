@@ -4,8 +4,7 @@
  * _memset - fills a memory block with a constant byte
  * @s: address to memory blcok
  * @b: char to be used
- *
- * number of bytes to be used
+ * @n: number of bytes to be used
  *
  * Return: pointer to the memory block
  */
