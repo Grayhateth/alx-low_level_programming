@@ -7,7 +7,7 @@ dog_t *new_dog(char *name, float age, char *owner);
 
 /**
  * _strlen - Finds the length of a sting.
- * @ste: The string to be measured.
+ * @str: The string to be measured.
  *
  * Return: The length of the string.
  */
